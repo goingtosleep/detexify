@@ -3,7 +3,7 @@
 Tex symbol classifier similar to [Detexify](https://detexify.kirelabs.org/) but using CNN.
 
 ## Data
-Input dataset can be found [here](https://drive.google.com/file/d/1PNA95QKiyhWkfntP4BtpEsDVvktY0Fr7/view?usp=sharing).
+Input dataset can be found [here](https://github.com/goingtosleep/handwritten-tex-symbols-dataset).
 
 ## Results
 Accuracy in form `train - test`.
